@@ -7,7 +7,7 @@ O objetivo do projeto foi construir um dashboard interativo para ajudar o time d
 
 ### 🎥 Vídeo de demonstração
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Anderson1999DC/Analise_Financeira_Bulltrend/main/Design%20sem%20nome.gif" width="650">
+  <img src="https://raw.githubusercontent.com/Anderson1999DC/Analise_Financeira_Bulltrend/main/Design%20sem%20nome.gif" width="500">
 </div>
 
 ---
