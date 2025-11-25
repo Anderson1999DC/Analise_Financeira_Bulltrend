@@ -1,7 +1,5 @@
 # Analise Financeira - Bulltrend
 
-# Analise Financeira - Bulltrend
-
 Este projeto foi realizado como parte do curso da Alura, com o desafio de simular o trabalho de um **analista de dados** em uma consultoria financeira especializada no mercado de ações brasileira, chamada **Bulltrend**.
 
 O objetivo do projeto foi construir um dashboard interativo para ajudar o time de consultoria a analisar os ativos da carteira de um grupo de clientes, utilizando Scripts python e Power BI. No decorrer do projeto, trabalhamos com duas importantes abordagens: **Análise fundamentalista e análise gráfica**.
