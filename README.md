@@ -57,4 +57,5 @@ Esse projeto foi importantíssimo para que eu desenvolva algumas habilidades nec
 ### Contato
 
 Se você tiver dúvidas ou quiser saber mais sobre este projeto, fique à vontade para entrar em contato!
+
 **Meu LinkedIn**: [Anderson Coelho](https://www.linkedin.com/in/anderson-coelho-42671634a/)
